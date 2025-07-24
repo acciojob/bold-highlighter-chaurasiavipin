@@ -1,5 +1,5 @@
 const highLight=document.querySelectorAll("strong");
-const newLight=document.querySelectorAll("p");
+const newLight=document.querySelector("p");
 
 
 
