@@ -14,6 +14,6 @@ function return_normal() {
 
 }
 newLight.addEventListener('mouseover', highlight);
-newLight.addEventListener('mouseout', highlight)
+newLight.addEventListener('mouseout', return_normal)
 
 
